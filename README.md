@@ -6,5 +6,3 @@ so i can quickly see what a book is about instead of reading it !!
 
 ![example](https://user-images.githubusercontent.com/68897241/175662105-3b71be49-0622-4ce6-a2ad-45029ada12ef.JPG)
 
-![alt text](https://github.com/0xRedTribe/Analyse-a-book/blob/master/images/example.JPG?raw=true)
-
