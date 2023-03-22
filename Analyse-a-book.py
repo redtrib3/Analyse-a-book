@@ -1,9 +1,4 @@
-# Objectives
-# > convert Pdf to txt
-# > read all lines, strip white spaces
-# > remove a,an, question words etc..
-# > make a dict with word as key and freq as value
-# > simplify and clean
+
 
 import PyPDF2
 
